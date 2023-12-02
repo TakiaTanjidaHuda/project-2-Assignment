@@ -62,4 +62,10 @@ body{
     width:1140px ;
     background-image: url(/images/gradient2.png), url(/images/watch.png);
 }
+#foot{
+    height: 577px;
+    width: 1600px;
+    margin-top: 130px;
+    background-color: black;
+}
               
