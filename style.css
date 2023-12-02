@@ -1,5 +1,65 @@
+body{
+    width: 70%;
+    
+}
 #head{
     height:808px;
     width: 1600px;
     background-image: url(images/banner/banner1.png);
 }
+#second{
+    width: 1027px;
+    height: 723.3px; 
+    margin-left: 206px; 
+    margin-right: 322px; 
+    margin-top: 130px;
+    display: flex;
+}
+.heading-style{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 40px; 
+    font-weight: bolder;
+}
+.para{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif; 
+    color: #444343; 
+    font-size:16px;
+}
+#image-left img{
+    width:569px;
+    height: 723.3px;
+    margin-right: 87px;
+    
+}
+#image-right{
+    height: 400px;
+    width: 416px;
+    margin-top: 230px;
+}
+#grid-design{
+    height: 202.96px;
+    width: 1141px;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.header-3rd{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px; 
+    font-weight: bolder;
+    
+}
+#forth{
+    margin-top: 130px;
+    margin-left: 200px;
+    margin-right: 230px;
+    height: 300px;
+    width:1140px ;
+    background-image: url(/images/watch.png);
+}
+              
