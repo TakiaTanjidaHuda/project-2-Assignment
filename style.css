@@ -60,6 +60,6 @@ body{
     margin-right: 230px;
     height: 300px;
     width:1140px ;
-    background-image: url(/images/watch.png);
+    background-image: url(/images/gradient2.png), url(/images/watch.png);
 }
               
